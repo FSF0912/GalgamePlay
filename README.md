@@ -26,10 +26,10 @@
 
 ### UGUISU KAGURA
 - **2502 PC** 纸上的魔法使
-- **待定 Mobile** 水葬银币的伊斯特里亚（await next）
+- **Mobile *Playing*** 水葬银币的伊斯特里亚
 
 ### Key社
-- **待定** Summer Pockets-Reflection Blue（await）
+ Summer Pockets-Reflection Blue（await）
 
 ---
 
