@@ -1,7 +1,7 @@
 # Galgame历史游玩    
 
 ### 各家作品按照时间排序    
-### last update:250414
+### last update:250415
 ---
 ### 柚子社 - Yuzusoft
 - **2406 Mobile** 千恋万花
@@ -26,7 +26,7 @@
 
 ### UGUISU KAGURA
 - **2502 PC** 纸上的魔法使
-- **2504 Mobile** 水葬银币的伊斯特里亚
+- **2502-2504 Mobile** 水葬银币的伊斯特里亚
 
 ### Key社
  Summer Pockets-Reflection Blue（await）
