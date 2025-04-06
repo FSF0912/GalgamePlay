@@ -1,7 +1,9 @@
-# Galgame历史游玩    
+## Galgame历史游玩    
+
+### 评测:<https://github.com/FSF0912/GalgamePlay/wiki>
 
 ### 各家作品按照时间排序    
-### last update:250415
+
 ---
 ### 柚子社 - Yuzusoft
 - **2406 Mobile** 千恋万花
