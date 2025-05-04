@@ -26,14 +26,10 @@
 ### UGUISU KAGURA
 - **2502 PC** 纸上的魔法使
 - **2502-2504 Mobile** 水葬银币的伊斯特里亚 [评测](https://github.com/FSF0912/GalgamePlay/wiki/UGUISU-KAGURA#%E6%B0%B4%E8%91%AC%E9%93%B6%E8%B4%A7%E7%9A%84%E4%BC%8A%E6%96%AF%E7%89%B9%E9%87%8C%E4%BA%9A)
-
-### SAGA PLANETS
-- **2504 Mobile Playing** AMBITIOUS MISSION
-
+- **2504-2505 Mobile** 印刻天际的Parallelogram
 ---
 
 ### 计划游玩
-- 印刻天际的Parallelogram
 - 冥契的牧神节
 - 永不终焉的世界之花
 - Summer Pockets-Reflection Blue
