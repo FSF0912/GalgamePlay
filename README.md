@@ -1,5 +1,5 @@
 ## Galgame历史游玩   
-## 时间排序:
+[时间排序](https://github.com/FSF0912/GalgamePlay/blob/main/TimeSorting.md)
 
 [评测](https://github.com/FSF0912/GalgamePlay/wiki)
 
