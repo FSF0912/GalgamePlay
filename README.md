@@ -31,6 +31,10 @@
 - **Mobile** 水葬银币的伊斯特里亚 [评测](https://github.com/FSF0912/GalgamePlay/wiki/UGUISU-KAGURA#%E6%B0%B4%E8%91%AC%E9%93%B6%E8%B4%A7%E7%9A%84%E4%BC%8A%E6%96%AF%E7%89%B9%E9%87%8C%E4%BA%9A)
 - **Mobile** 印刻天际的Parallelogram [评测](https://github.com/FSF0912/GalgamePlay/wiki/UGUISU-KAGURA#%E5%8D%B0%E5%88%BB%E5%A4%A9%E9%99%85%E7%9A%84parallelogram)
 - **Mobile** 冥契的牧神节
+
+### トトメトリ
+**PC** 宝石少女1st cut
+
 ---
 
 ### 计划游玩
