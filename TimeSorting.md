@@ -21,3 +21,4 @@
 - **2504-2505 Mobile** 印刻天际的Parallelogram [评测](https://github.com/FSF0912/GalgamePlay/wiki/UGUISU-KAGURA#%E5%8D%B0%E5%88%BB%E5%A4%A9%E9%99%85%E7%9A%84parallelogram)
 - **Mobile** 冥契的牧神节
 - **2505 Mobile** 冥契的牧神节
+- **2506 PC** 宝石少女1st cut
