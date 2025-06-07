@@ -35,6 +35,8 @@
 ### トトメトリ
 - **PC** 宝石少女1st cut
 
+### ANIPLEX.EXE
+- ATRI -My Dear Moments-
 ---
 
 ### 计划游玩
