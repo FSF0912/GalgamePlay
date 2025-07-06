@@ -4,6 +4,7 @@
 [评测](https://github.com/FSF0912/GalgamePlay/wiki)
 
 ### 柚子社 - Yuzusoft
+- **PC & Mobile** DRACU-RIOT!
 - **Mobile** 千恋万花
 - **Mobile** 魔女的夜宴
 - **Mobile** Riddle Joker
@@ -45,4 +46,5 @@
 ### 计划游玩
 - Ambitious Mission
 - Summer Pockets-Reflection Blue
+- 恋爱，我就借走了
 - 消失的世界与月与少女
