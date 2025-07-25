@@ -24,3 +24,4 @@
 - **2506 PC** ATRI -My Dear Moments-
 - **2506 Mobile** 不败世界与终焉之花
 - **2506-2507 PC & Mobile** DRACU-RIOT!
+- **2507 PC** Summer Pockets-Reflection Blue
