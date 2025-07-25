@@ -41,11 +41,15 @@
 
 ### SWEET&TEA
 - 不败世界与终焉之花
+
+### Visual Art's/Key
+- Summer Pockets-Reflection Blue
+
 ---
+
 
 ### 计划游玩
 - Ambitious Mission
-- Summer Pockets-Reflection Blue
 - 恋爱，我就借走了
 - 消失的世界与月与少女
 - 青春X好奇相伴的三角恋爱
