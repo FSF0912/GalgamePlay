@@ -25,4 +25,10 @@
 - **2506 Mobile** 不败世界与终焉之花
 - **2506-2507 PC & Mobile** DRACU-RIOT!
 - **2507 PC** Summer Pockets-Reflection Blue
-- **2507-2508** 恋爱成双
+- **2507-2508 PC** 恋爱成双
+- **2508 PC** 9-nine-
+  <br>九天九日九重色
+  <br>天色天歌天籁音
+  <br>春色春恋春熙风
+  <br>雪色雪花雪余痕
+  <br>newEP
