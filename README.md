@@ -20,6 +20,12 @@
 
 ## Palette
 - **PC** 少女 * 领域
+- **PC** 9-nine-
+  <br>九天九日九重色
+  <br>天色天歌天籁音
+  <br>春色春恋春熙风
+  <br>雪色雪花雪余痕
+  <br>newEP
 
 ## Alcot
 - **PC RE** Clover Day's（幸运草的约定）
@@ -37,16 +43,16 @@
 - **PC** 宝石少女1st cut
 
 ## ANIPLEX.EXE
-- ATRI -My Dear Moments-
+- **PC** ATRI -My Dear Moments-
 
 ## SWEET&TEA
-- 不败世界与终焉之花
+- **PC** 不败世界与终焉之花
 
 ## Visual Art's/Key
-- Summer Pockets-Reflection Blue
+- **PC** Summer Pockets-Reflection Blue
 
 ## Asa Project
-- 恋爱成双(劈腿之恋)
+- **PC** 恋爱成双(劈腿之恋)
 
 ---
 
