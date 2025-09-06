@@ -3,16 +3,21 @@
 
 [评测](https://github.com/FSF0912/GalgamePlay/wiki)
 
-## Yuzusoft
-- **PC & Mobile** DRACU-RIOT!
-- **Mobile** 千恋万花
-- **Mobile** 魔女的夜宴
-- **Mobile** Riddle Joker
-- **Mobile** 星光咖啡馆与死神之蝶
-- **Mobile** Parquet (Yuzusoft Sour)
-- **Mobile** 天使纷扰
+## Alcot
+- **PC RE** Clover Day's（幸运草的约定）
+
+## ANIPLEX.EXE
+- **PC** ATRI -My Dear Moments-
+
+## Asa Project
+- **PC** 恋爱成双(劈腿之恋)
+- **PC** 恋爱，我就借走了
+
+## Key
+- **PC** Summer Pockets-Reflection Blue
 
 ## Madosoft
+- **PC** 醋意乱流
 - **Mobile** 树莓立方体
 - **Mobile** 灵感满满溢的甜蜜幻想/常轨脱离Creative
  (原作，续作，Recall)
@@ -27,39 +32,34 @@
   <br>雪色雪花雪余痕
   <br>newEP
 
-## Alcot
-- **PC RE** Clover Day's（幸运草的约定）
-
-## 白玉社
-- **PC** 星空列车与白的旅行（全年龄，已补票）
-
-## UGUISU KAGURA
-- **PC** 纸上的魔法使
-- **Mobile** 水葬银币的伊斯特里亚 [评测](https://github.com/FSF0912/GalgamePlay/wiki/UGUISU-KAGURA#%E6%B0%B4%E8%91%AC%E9%93%B6%E8%B4%A7%E7%9A%84%E4%BC%8A%E6%96%AF%E7%89%B9%E9%87%8C%E4%BA%9A)
-- **Mobile** 印刻天际的Parallelogram [评测](https://github.com/FSF0912/GalgamePlay/wiki/UGUISU-KAGURA#%E5%8D%B0%E5%88%BB%E5%A4%A9%E9%99%85%E7%9A%84parallelogram)
-- **Mobile** 冥契的牧神节
-
-## トトメトリ
-- **PC** 宝石少女1st cut
-
-## ANIPLEX.EXE
-- **PC** ATRI -My Dear Moments-
+## Qruppo
+- 住在拔作岛上的贫乳应该如何是好?
 
 ## SWEET&TEA
 - **PC** 不败世界与终焉之花
 
-## Visual Art's/Key
-- **PC** Summer Pockets-Reflection Blue
+## トトメトリ
+- **PC** 宝石少女1st cut
 
-## Asa Project
-- **PC** 恋爱成双(劈腿之恋)
-- **PC** 恋爱，我就借走了
+## UGUISU KAGURA
+- **PC** 纸上的魔法使
+- **Mobile** 水葬银币的伊斯特里亚 [评测](https://github.com/FSF0912/GalgamePlay/wiki/UGUISU-KAGURA#%E6%B0%B4%E8%91%AC%E9%93%B6%E8%B4%A8%E7%9A%84%E4%BC%8A%E6%96%AF%E7%89%B9%E9%87%8C%E4%BA%9A)
+- **Mobile** 印刻天际的Parallelogram [评测](https://github.com/FSF0912/GalgamePlay/wiki/UGUISU-KAGURA#%E5%8D%B0%E5%88%BB%E5%A4%A9%E9%99%85%E7%9A%84parallelogram)
+- **Mobile** 冥契的牧神节
 
-## Qruppo
-- 住在拔作岛上的贫乳应该如何是好?
+## 白玉社
+- **PC** 星空列车与白的旅行（全年龄，已补票）
+
+## Yuzusoft
+- **PC & Mobile** DRACU-RIOT!
+- **Mobile** 千恋万花
+- **Mobile** 魔女的夜宴
+- **Mobile** Riddle Joker
+- **Mobile** 星光咖啡馆与死神之蝶
+- **Mobile** Parquet (Yuzusoft Sour)
+- **Mobile** 天使纷扰
 
 ---
-
 
 ### 计划游玩
 - Ambitious Mission
