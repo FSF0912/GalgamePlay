@@ -15,6 +15,9 @@
 - **PC** 恋爱成双(劈腿之恋)
 - **PC** 恋爱，我就借走了
 
+## 白玉社
+- **PC** 星空列车与白的旅行（全年龄，已补票）
+
 ## Key
 - **PC** Summer Pockets-Reflection Blue
 
@@ -49,9 +52,6 @@
 - **Mobile** 印刻天际的Parallelogram [评测](https://github.com/FSF0912/GalgamePlay/wiki/UGUISU-KAGURA#%E5%8D%B0%E5%88%BB%E5%A4%A9%E9%99%85%E7%9A%84parallelogram)
 - **Mobile** 冥契的牧神节
 
-## 白玉社
-- **PC** 星空列车与白的旅行（全年龄，已补票）
-
 ## Yuzusoft
 - **PC & Mobile** DRACU-RIOT!
 - **Mobile** 千恋万花
@@ -65,6 +65,10 @@
 
 ### 计划游玩
 - Ambitious Mission
+- 游戏名称:樱舞落花恋模样(桜ひとひら恋もよう)
+发售日期:2017/9/29
+制作公司:Parasol
+
 - 消失的世界与月与少女
 - 青春X好奇相伴的三角恋爱
 - 哥哥，早上起来之前都请抱紧我哦
