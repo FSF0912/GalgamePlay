@@ -17,6 +17,7 @@
 
 ## FAVORITE
 - **PC** 五彩斑斓的世界
+> 2510 粗评 9.0
 
 ## Key
 - **PC** Summer Pockets-Reflection Blue
