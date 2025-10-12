@@ -1,78 +1,75 @@
-# Galgame历史游玩   
-[时间排序](https://github.com/FSF0912/GalgamePlay/blob/main/TimeSorting.md)
+# Galgame 游玩记录
 
-[评测](https://github.com/FSF0912/GalgamePlay/wiki)
+**[时间排序](https://github.com/FSF0912/GalgamePlay/blob/main/TimeSorting.md)** | **[评测](https://github.com/FSF0912/GalgamePlay/wiki)**
+> 列表按照开发商首字母 (英文 / 中文拼音 / 日文罗马音) 排序。
+> 粗评标准：0-10分，以《千恋万花》为基准分 (5.5分)。
 
-按照各社首字母，中文第一个字符的拼音首字母，日文第一个字符的罗马音首字母排序。
+## 已玩列表
 
-## Alcot
-- **PC RE** Clover Day's（幸运草的约定）
+### [A] Alcot
+- **[PC/重制]** Clover Day's (幸运草的约定)
 
-## ANIPLEX.EXE
-- **PC** ATRI -My Dear Moments-
+### [A] ANIPLEX.EXE
+- **[PC]** ATRI -My Dear Moments-
 
-## Asa Project
-- **PC** 恋爱成双(劈腿之恋)
-- **PC** 恋爱，我就借走了
+### [A] Asa Project
+- **[PC]** 恋爱成双 (劈腿之恋)
+- **[PC]** 恋爱，我就借走了
 
-## FAVORITE
-- **PC** 五彩斑斓的世界
-> 2510 粗评 9.0
+### [F] FAVORITE
+- **[PC]** 五彩斑斓的世界 `9.0|251011`
+- **[PC]** 五彩斑斓的曙光 `9.3|251012`
 
-## Key
-- **PC** Summer Pockets-Reflection Blue
+### [K] Key
+- **[PC]** Summer Pockets-Reflection Blue
 
-## Madosoft
-- **PC** 醋意乱流
-- **Mobile** 树莓立方体
-- **Mobile** 灵感满满溢的甜蜜幻想/常轨脱离Creative
- (原作，续作，Recall)
-- **Mobile** 天选庶民的真命之选
+### [M] Madosoft
+- **[PC]** 醋意乱流
+- **[Mobile]** 树莓立方体
+- **[Mobile]** 常轨脱离Creative 系列 (原作, 续作, Recall)
+- **[Mobile]** 天选庶民的真命之选
 
-## Palette
-- **PC** 少女 * 领域
-- **PC** 9-nine-
-  <br>九天九日九重色
-  <br>天色天歌天籁音
-  <br>春色春恋春熙风
-  <br>雪色雪花雪余痕
-  <br>newEP
+### [P] Palette
+- **[PC]** 少女＊领域
+- **[PC]** 9-nine-
+    - 九天九日九重色
+    - 天色天歌天籁音
+    - 春色春恋春熙风
+    - 雪色雪花雪余痕
+    - newEP
 
-## Qruppo
-- **PC** 住在拔作岛上的贫乳应该如何是好?
+### [Q] Qruppo
+- **[PC]** 住在拔作岛上的贫乳应该如何是好?
 
-## しらたまこ
-- **PC** 星空列车与白的旅行（全年龄，已补票）
+### [S] しらたまこ (Shiratamako)
+- **[PC]** 星空列车与白的旅行
 
-## SWEET&TEA
-- **PC** 不败世界与终焉之花
+### [S] SWEET&TEA
+- **[PC]** 不败世界与终焉之花
 
-## トトメトリ
-- **PC** 宝石少女1st cut
+### [T] トトメトリ (Totometri)
+- **[PC]** 宝石少女1st cut
 
-## UGUISU KAGURA
-- **PC** 纸上的魔法使
-- **Mobile** 水葬银币的伊斯特里亚 [评测](https://github.com/FSF0912/GalgamePlay/wiki/UGUISU-KAGURA#%E6%B0%B4%E8%91%AC%E9%93%B6%E8%B4%A8%E7%9A%84%E4%BC%8A%E6%96%AF%E7%89%B9%E9%87%8C%E4%BA%9A)
-- **Mobile** 印刻天际的Parallelogram [评测](https://github.com/FSF0912/GalgamePlay/wiki/UGUISU-KAGURA#%E5%8D%B0%E5%88%BB%E5%A4%A9%E9%99%85%E7%9A%84parallelogram)
-- **Mobile** 冥契的牧神节
+### [U] UGUISU KAGURA
+- **[PC]** 纸上的魔法使
+- **[Mobile]** 水葬银币的伊斯特里亚 ([评测](https://github.com/FSF0912/GalgamePlay/wiki/UGUISU-KAGURA#%E6%B0%B4%E8%91%AC%E9%93%B6%E8%B4%A8%E7%9A%84%E4%BC%8A%E6%96%AF%E7%89%B9%E9%87%8C%E4%BA%9A))
+- **[Mobile]** 印刻天际的Parallelogram ([评测](https://github.com/FSF0912/GalgamePlay/wiki/UGUISU-KAGURA#%E5%8D%B0%E5%88%BB%E5%A4%A9%E9%99%85%E7%9A%84parallelogram))
+- **[Mobile]** 冥契的牧神节
 
-## Yuzusoft
-- **PC & Mobile** DRACU-RIOT!
-- **Mobile** 千恋万花
-- **Mobile** 魔女的夜宴
-- **Mobile** Riddle Joker
-- **Mobile** 星光咖啡馆与死神之蝶
-- **Mobile** Parquet (Yuzusoft Sour)
-- **Mobile** 天使纷扰
+### [Y] Yuzusoft (柚子社)
+- **[PC&Mobile]** DRACU-RIOT!
+- **[Mobile]** 千恋万花
+- **[Mobile]** 魔女的夜宴
+- **[Mobile]** Riddle Joker
+- **[Mobile]** 星光咖啡馆与死神之蝶
+- **[Mobile]** Parquet `(Yuzusoft Sour)`
+- **[Mobile]** 天使纷扰
 
 ---
 
-### 计划游玩
+## 计划游玩
 - Ambitious Mission
-- 游戏名称:樱舞落花恋模样(桜ひとひら恋もよう)
-发售日期:2017/9/29
-制作公司:Parasol
-
+- 樱舞落花恋模样 (桜ひとひら恋もよう)
 - 消失的世界与月与少女
 - 青春X好奇相伴的三角恋爱
 - 哥哥，早上起来之前都请抱紧我哦
