@@ -7,7 +7,7 @@
 ## 已玩列表
 
 ### [A] Alcot
-- **[PC/重制]** Clover Day's (幸运草的约定)
+- **[PC | RE]** Clover Day's (幸运草的约定)
 
 ### [A] ANIPLEX.EXE
 - **[PC]** ATRI -My Dear Moments-
@@ -17,8 +17,8 @@
 - **[PC]** 恋爱，我就借走了
 
 ### [F] FAVORITE
-- **[PC]** 五彩斑斓的世界 `9.0|251011`
-- **[PC]** 五彩斑斓的曙光 `9.3|251012`
+- **[PC | RE]** 五彩斑斓的世界 `9.0|251011`
+- **[PC | RE]** 五彩斑斓的曙光 `9.3|251012`
 
 ### [K] Key
 - **[PC]** Summer Pockets-Reflection Blue
@@ -30,13 +30,13 @@
 - **[Mobile]** 天选庶民的真命之选
 
 ### [P] Palette
-- **[PC]** 少女＊领域
+- **[PC]** 少女＊领域 `Palette Qualia`
 - **[PC]** 9-nine-
     - 九天九日九重色
     - 天色天歌天籁音
     - 春色春恋春熙风
     - 雪色雪花雪余痕
-    - newEP
+    - newEP 
 
 ### [Q] Qruppo
 - **[PC]** 住在拔作岛上的贫乳应该如何是好?
@@ -56,13 +56,13 @@
 - **[Mobile]** 印刻天际的Parallelogram ([评测](https://github.com/FSF0912/GalgamePlay/wiki/UGUISU-KAGURA#%E5%8D%B0%E5%88%BB%E5%A4%A9%E9%99%85%E7%9A%84parallelogram))
 - **[Mobile]** 冥契的牧神节
 
-### [Y] Yuzusoft (柚子社)
+### [Y] Yuzusoft
 - **[PC&Mobile]** DRACU-RIOT!
 - **[Mobile]** 千恋万花
 - **[Mobile]** 魔女的夜宴
 - **[Mobile]** Riddle Joker
 - **[Mobile]** 星光咖啡馆与死神之蝶
-- **[Mobile]** Parquet `(Yuzusoft Sour)`
+- **[Mobile]** Parquet `Yuzusoft Sour`
 - **[Mobile]** 天使纷扰
 
 ---
