@@ -2,6 +2,7 @@
 
 **[时间排序](https://github.com/FSF0912/GalgamePlay/blob/main/TimeSorting.md)** | **[评测](https://github.com/FSF0912/GalgamePlay/wiki)**
 > 列表按照开发商首字母 (英文 / 中文拼音 / 日文罗马音) 排序。
+> 
 > 粗评标准：0-10分，以《千恋万花》为基准分 (5.5分)。
 
 ## 已玩列表
@@ -17,9 +18,9 @@
 - **[PC]** 恋爱，我就借走了
 
 ### [F] FAVORITE
-- **[PC | RE]** 五彩斑斓的世界 `9.0|251011`
-- **[PC | RE]** 五彩斑斓的曙光 `8.6|251012`
-- **[PC | RE]** 映入红瞳的世界 `9.2|251019`
+- **[PC | RE]** 五彩斑斓的世界 `9.0`
+- **[PC | RE]** 五彩斑斓的曙光 `8.5`
+- **[PC | RE]** 映入红瞳的世界 `9.0`
 
 ### [K] Key
 - **[PC]** Summer Pockets-Reflection Blue
@@ -27,7 +28,9 @@
 ### [M] Madosoft
 - **[PC]** 醋意乱流
 - **[Mobile]** 树莓立方体
-- **[Mobile]** 常轨脱离Creative 系列 (原作, 续作, Recall)
+- **[Mobile]** 常轨脱离Creative
+- **[Mobile]** 常规脱离Creative凸
+- **[Mobile]** 常规脱离Creative Re:Re:Call
 - **[Mobile]** 天选庶民的真命之选
 
 ### [P] Palette
