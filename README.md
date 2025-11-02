@@ -20,7 +20,7 @@
 ### [F] FAVORITE
 - **[PC | RE]** 五彩斑斓的世界 `9.0`
 - **[PC | RE]** 五彩斑斓的曙光 `8.5`
-- **[PC | RE]** 映入红瞳的世界 `9.0`
+- **[PC | RE]** 映入红瞳的世界 `9.3`
 
 ### [K] Key
 - **[PC]** Summer Pockets-Reflection Blue
