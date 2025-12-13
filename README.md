@@ -43,7 +43,8 @@
     - newEP 
 
 ### [Q] Qruppo
-- **[PC]** 住在拔作岛上的贫乳应该如何是好?
+- **[PC]** NUKITASHI
+- **[PC]** NUKITASHI2 `丝丝FD | 8.0`
 
 ### [S] しらたまこ (Shiratamako)
 - **[PC]** 星空列车与白的旅行
