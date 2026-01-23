@@ -69,6 +69,7 @@
 - **[Mobile]** 星光咖啡馆与死神之蝶
 - **[Mobile]** Parquet `Yuzusoft Sour`
 - **[Mobile]** 天使纷扰
+- **[PC]** Limelight Lemonade Jam `6.8`
 
 ---
 
