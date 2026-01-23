@@ -40,3 +40,4 @@
 - **[2510 | PC | RE]** 五彩斑斓的曙光
 - **[2510 | PC | RE]** 映入红瞳的世界
 - **[2510-2512 | PC]** NUKITASHI2 `丝丝FD`
+- **[2512-2601 | PC]** Limelight Lemonade Jam
