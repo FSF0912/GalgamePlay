@@ -40,7 +40,10 @@
     - 天色天歌天籁音
     - 春色春恋春熙风
     - 雪色雪花雪余痕
-    - newEP 
+    - newEP
+ 
+### [P]Purple Software
+- **[PC]** 天津罪 `9.5`
 
 ### [Q] Qruppo
 - **[PC]** NUKITASHI
