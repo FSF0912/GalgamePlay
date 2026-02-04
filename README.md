@@ -3,7 +3,7 @@
 **[时间排序](https://github.com/FSF0912/GalgamePlay/blob/main/TimeSorting.md)** | **[评测](https://github.com/FSF0912/GalgamePlay/wiki)**
 > 列表按照开发商首字母 (英文 / 中文拼音 / 日文罗马音) 排序。
 > 
-> 粗评标准：0-10分，以《千恋万花》为基准分 (5.5分)。
+> 粗评标准：0-10分，以整数计（x.0+），以《千恋万花》为基准分5分。
 
 ## 已玩列表
 
@@ -18,15 +18,15 @@
 - **[PC]** 恋爱，我就借走了
 
 ### [F] FAVORITE
-- **[PC | RE]** 五彩斑斓的世界 `9.0`
-- **[PC | RE]** 五彩斑斓的曙光 `8.7`
-- **[PC | RE]** 映入红瞳的世界 `9.3`
+- **[PC | RE]** 五彩斑斓的世界 `9.0+`
+- **[PC | RE]** 五彩斑斓的曙光 `9.0+`
+- **[PC | RE]** 映入红瞳的世界 `9.0+`
 
 ### [K] Key
 - **[PC]** Summer Pockets-Reflection Blue
 
 ### [M] Madosoft
-- **[PC]** 醋意乱流
+- **[PC]** 醋意乱流 `5.0+`
 - **[Mobile]** 树莓立方体
 - **[Mobile]** 常轨脱离Creative
 - **[Mobile]** 常规脱离Creative凸
@@ -43,11 +43,11 @@
     - newEP
  
 ### [P]Purple Software
-- **[PC]** 天津罪 `9.5`
+- **[PC]** 天津罪 `9.0+`
 
 ### [Q] Qruppo
 - **[PC]** NUKITASHI
-- **[PC]** NUKITASHI2 `丝丝FD | 8.0`
+- **[PC]** NUKITASHI2 `丝丝FD | 8.0+`
 
 ### [S] しらたまこ (Shiratamako)
 - **[PC]** 星空列车与白的旅行
@@ -72,7 +72,7 @@
 - **[Mobile]** 星光咖啡馆与死神之蝶
 - **[Mobile]** Parquet `Yuzusoft Sour`
 - **[Mobile]** 天使纷扰
-- **[PC]** Limelight Lemonade Jam `6.8`
+- **[PC]** Limelight Lemonade Jam `7.0+`
 
 ---
 
