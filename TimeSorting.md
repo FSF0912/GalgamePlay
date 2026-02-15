@@ -18,8 +18,8 @@
 - **[2502 | PC | RE]** Clover Day's（幸运草的约定）
 - **[2502 | PC]** 星空列车与白的旅行（全年龄）
 - **[2502 | PC]** 纸上的魔法使
-- **[2502-2504 | Mobile]** 水葬银币的伊斯特里亚 [评测](https://github.com/FSF0912/GalgamePlay/wiki/UGUISU-KAGURA#%E6%B0%B4%E8%91%AC%E9%93%B6%E8%B4%A8%E7%9A%84%E4%BC%8A%E6%96%AF%E7%89%B9%E9%87%8C%E4%BA%9A)
-- **[2504-2505 | Mobile]** 印刻天际的Parallelogram [评测](https://github.com/FSF0912/GalgamePlay/wiki/UGUISU-KAGURA#%E5%8D%B0%E5%88%BB%E5%A4%A9%E9%99%85%E7%9A%84parallelogram)
+- **[2502-2504 | Mobile]** 水葬银币的伊斯特里亚
+- **[2504-2505 | Mobile]** 印刻天际的Parallelogram
 - **[2505 | Mobile]** 冥契的牧神节
 - **[2506 | PC]** 宝石少女1st cut
 - **[2506 | PC]** ATRI -My Dear Moments-
@@ -42,3 +42,4 @@
 - **[2510-2512 | PC]** NUKITASHI2 `丝丝FD`
 - **[2512-2601 | PC]** Limelight Lemonade Jam
 - **[2601 | PC]** 天津罪
+- **[2602 | PC]** 大图书馆的牧羊人
