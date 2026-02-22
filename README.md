@@ -3,7 +3,7 @@
 **[时间排序](https://github.com/FSF0912/GalgamePlay/blob/main/TimeSorting.md)** | **[评测](https://github.com/FSF0912/GalgamePlay/wiki)**
 > 列表按照开发商首字母 (英文 / 中文拼音 / 日文罗马音) 排序。
 > 
-> 粗评标准：0-10分，以整数计（x.0+），以《千恋万花》为基准分5分。
+> 粗评标准：0-10分，以整数及小数.5计（x.0+,x.5+），以《千恋万花》为基准分5分。
 
 ## 已玩列表
 
@@ -19,6 +19,7 @@
 
 ### [A]August
 - **[PC]** 大图书馆的牧羊人 `8.0+`
+- **[PC]** 大图书馆的牧羊人 -Dreaming Sheep- `7.5+`
 
 ### [F] FAVORITE
 - **[PC | RE]** 五彩斑斓的世界 `9.0+`
