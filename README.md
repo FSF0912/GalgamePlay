@@ -18,20 +18,20 @@
 - **[PC]** 恋爱，我就借走了
 
 ### [A] August
-- **[PC]** 大图书馆的牧羊人 `8.0+`
+- **[PC]** 大图书馆的牧羊人 `7.0+`
 - **[PC]** 大图书馆的牧羊人 课余的尾巴时光 `6.0+`
 - **[PC]** 大图书馆的牧羊人 -Dreaming Sheep- `7.0+`
 
 ### [F] FAVORITE
 - **[PC | RE]** 五彩斑斓的世界 `9.0+`
-- **[PC | RE]** 五彩斑斓的曙光 `9.0+`
+- **[PC | RE]** 五彩斑斓的曙光 `8.5+`
 - **[PC | RE]** 映入红瞳的世界 `9.0+`
 
 ### [K] Key
 - **[PC]** Summer Pockets-Reflection Blue
 
 ### [M] Madosoft
-- **[PC]** 醋意乱流 `4.0+`
+- **[PC]** 醋意乱流 `5.0+`
 - **[Mobile]** 树莓立方体
 - **[Mobile]** 常轨脱离Creative
 - **[Mobile]** 常规脱离Creative凸
@@ -48,7 +48,7 @@
     - newEP
  
 ### [P]Purple Software
-- **[PC]** 天津罪 `9.0+`
+- **[PC]** 天津罪 `8.0+`
 
 ### [Q] Qruppo
 - **[PC]** NUKITASHI
