@@ -3,7 +3,7 @@
 **[时间排序](https://github.com/FSF0912/GalgamePlay/blob/main/TimeSorting.md)** | **[评测](https://github.com/FSF0912/GalgamePlay/wiki)**
 > 列表按照开发商首字母 (英文 / 中文拼音 / 日文罗马音) 排序。
 > 
-> 粗评标准：0-10分，以整数及小数.5计（x.0+,x.5+），以《千恋万花》为基准分6.0分。
+> 粗评标准：0-10分，以整数及小数.5计（x.0,x.5），以《千恋万花》为基准分6.0分。
 
 ## 已玩列表
 
@@ -18,14 +18,14 @@
 - **[PC]** 恋爱，我就借走了
 
 ### [A] August
-- **[PC]** 大图书馆的牧羊人 `7.0+`
-- **[PC]** 大图书馆的牧羊人 课余的尾巴时光 `6.0+`
-- **[PC]** 大图书馆的牧羊人 -Dreaming Sheep- `7.0+`
+- **[PC]** 大图书馆的牧羊人 `7.0`
+- **[PC]** 大图书馆的牧羊人 课余的尾巴时光 `6.5`
+- **[PC]** 大图书馆的牧羊人 -Dreaming Sheep- `7.0`
 
 ### [F] FAVORITE
-- **[PC | RE]** 五彩斑斓的世界 `9.0+`
-- **[PC | RE]** 五彩斑斓的曙光 `8.5+`
-- **[PC | RE]** 映入红瞳的世界 `9.0+`
+- **[PC | RE]** 五彩斑斓的世界 `9.0`
+- **[PC | RE]** 五彩斑斓的曙光 `8.5`
+- **[PC | RE]** 映入红瞳的世界 `9.0`
 
 ### [K] Key
 - **[PC]** Summer Pockets-Reflection Blue
@@ -48,14 +48,17 @@
     - newEP
  
 ### [P]Purple Software
-- **[PC]** 天津罪 `8.0+`
+- **[PC]** 天津罪 `8.5`
 
 ### [Q] Qruppo
 - **[PC]** NUKITASHI
-- **[PC]** NUKITASHI2 `丝丝FD | 8.0+`
+- **[PC]** NUKITASHI2 `丝丝FD | 8.0`
 
 ### [S] しらたまこ (Shiratamako)
 - **[PC]** 星空列车与白的旅行
+
+### [S] Sprite
+- **[PC]** 苍之彼方的四重奏 `9.0`
 
 ### [S] SWEET&TEA
 - **[PC]** 不败世界与终焉之花
@@ -77,7 +80,7 @@
 - **[Mobile]** 星光咖啡馆与死神之蝶
 - **[Mobile]** Parquet `Yuzusoft Sour`
 - **[Mobile]** 天使纷扰
-- **[PC]** Limelight Lemonade Jam `6.0+`
+- **[PC]** Limelight Lemonade Jam `6.0`
 
 ---
 
