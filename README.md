@@ -31,7 +31,7 @@
 - **[PC]** Summer Pockets-Reflection Blue
 
 ### [M] Madosoft
-- **[PC]** 醋意乱流 `5.0+`
+- **[PC]** 醋意乱流 `5.0`
 - **[Mobile]** 树莓立方体
 - **[Mobile]** 常轨脱离Creative
 - **[Mobile]** 常规脱离Creative凸
@@ -59,6 +59,7 @@
 
 ### [S] Sprite
 - **[PC]** 苍之彼方的四重奏 `9.0`
+- **[PC]** 苍之彼方的四重奏 EXTRA1 `8.0`
 
 ### [S] SWEET&TEA
 - **[PC]** 不败世界与终焉之花
@@ -80,7 +81,7 @@
 - **[Mobile]** 星光咖啡馆与死神之蝶
 - **[Mobile]** Parquet `Yuzusoft Sour`
 - **[Mobile]** 天使纷扰
-- **[PC]** Limelight Lemonade Jam `6.0`
+- **[PC]** Limelight Lemonade Jam `6.5`
 
 ---
 
