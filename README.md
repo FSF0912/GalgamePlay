@@ -62,6 +62,8 @@
 - **[PC]** 苍之彼方的四重奏 EXTRA1 `8.0`
 - **[PC]** 苍之彼方的四重奏 EXTRA2 `9.5`
 
+[三部简评](Sprite/Aokana/Aokana.md)
+
 ### [S] SWEET&TEA
 - **[PC]** 不败世界与终焉之花
 
