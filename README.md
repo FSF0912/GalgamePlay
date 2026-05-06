@@ -8,39 +8,39 @@
 ## 已玩列表
 
 ### [A] Alcot
-- **[PC | RE]** Clover Day's (幸运草的约定)
+- **[RE]** Clover Day's (幸运草的约定)
 
 ### [A] ANIPLEX.EXE
-- **[PC]** ATRI -My Dear Moments-
+- ATRI -My Dear Moments-
 
 ### [A] Asa Project
-- **[PC]** 恋爱成双 (劈腿之恋)
-- **[PC]** 恋爱，我就借走了
+- 恋爱成双 (劈腿之恋)
+- 恋爱，我就借走了
 
 ### [A] August
-- **[PC]** 大图书馆的牧羊人 `7.0`
-- **[PC]** 大图书馆的牧羊人 课余的尾巴时光 `6.5`
-- **[PC]** 大图书馆的牧羊人 -Dreaming Sheep- `7.0`
+- 大图书馆的牧羊人 `7.0`
+- 大图书馆的牧羊人 课余的尾巴时光 `6.0`
+- 大图书馆的牧羊人 -Dreaming Sheep- `7.0`
 
 ### [F] FAVORITE
-- **[PC | RE]** 五彩斑斓的世界 `9.0`
-- **[PC | RE]** 五彩斑斓的曙光 `8.5`
-- **[PC | RE]** 映入红瞳的世界 `9.0`
+- **[RE]** 五彩斑斓的世界 `9.0`
+- **[RE]** 五彩斑斓的曙光 `9.0`
+- **[RE]** 映入红瞳的世界 `9.5`
 
 ### [K] Key
-- **[PC]** Summer Pockets-Reflection Blue
+- Summer Pockets-Reflection Blue
 
 ### [M] Madosoft
-- **[PC]** 醋意乱流 `5.0`
-- **[Mobile]** 树莓立方体
-- **[Mobile]** 常轨脱离Creative
-- **[Mobile]** 常规脱离Creative凸
-- **[Mobile]** 常规脱离Creative Re:Re:Call
-- **[Mobile]** 天选庶民的真命之选
+- 醋意乱流 `5.0`
+- 树莓立方体
+- 常轨脱离Creative
+- 常规脱离Creative凸
+- 常规脱离Creative Re:Re:Call
+- 天选庶民的真命之选
 
 ### [P] Palette
-- **[PC]** 少女＊领域 `Palette Qualia`
-- **[PC]** 9-nine-
+- 少女＊领域 `Palette Qualia`
+- 9-nine-
     - 九天九日九重色
     - 天色天歌天籁音
     - 春色春恋春熙风
@@ -48,43 +48,43 @@
     - newEP
  
 ### [P]Purple Software
-- **[PC]** 天津罪 `8.5`
+- 天津罪 `8.0`
 
 ### [Q] Qruppo
-- **[PC]** NUKITASHI
-- **[PC]** NUKITASHI2 `丝丝FD | 8.0`
+- NUKITASHI
+- NUKITASHI2 `丝丝FD | 8.0`
 
 ### [S] しらたまこ (Shiratamako)
-- **[PC]** 星空列车与白的旅行
+- 星空列车与白的旅行
 
 ### [S] Sprite
-- **[PC]** 苍之彼方的四重奏 `9.0`
-- **[PC]** 苍之彼方的四重奏 EXTRA1 `8.0`
-- **[PC]** 苍之彼方的四重奏 EXTRA2 `9.5`
+- 苍之彼方的四重奏 `8.0`
+- 苍之彼方的四重奏 EXTRA1 `8.0`
+- 苍之彼方的四重奏 EXTRA2 `9.0`
 
 [三部简评](Sprite/Aokana/Aokana.md)
 
 ### [S] SWEET&TEA
-- **[PC]** 不败世界与终焉之花
+- 不败世界与终焉之花
 
 ### [T] トトメトリ (Totometri)
-- **[PC]** 宝石少女1st cut
+- 宝石少女1st cut
 
 ### [U] UGUISU KAGURA
-- **[PC]** 纸上的魔法使
-- **[Mobile]** 水葬银币的伊斯特里亚 ([评测](https://github.com/FSF0912/GalgamePlay/wiki/UGUISU-KAGURA#%E6%B0%B4%E8%91%AC%E9%93%B6%E8%B4%A8%E7%9A%84%E4%BC%8A%E6%96%AF%E7%89%B9%E9%87%8C%E4%BA%9A))
-- **[Mobile]** 印刻天际的Parallelogram ([评测](https://github.com/FSF0912/GalgamePlay/wiki/UGUISU-KAGURA#%E5%8D%B0%E5%88%BB%E5%A4%A9%E9%99%85%E7%9A%84parallelogram))
-- **[Mobile]** 冥契的牧神节
+- 纸上的魔法使
+- 水葬银币的伊斯特里亚
+- 印刻天际的Parallelogram
+- 冥契的牧神节
 
 ### [Y] Yuzusoft
-- **[PC&Mobile]** DRACU-RIOT!
-- **[Mobile]** 千恋万花
-- **[Mobile]** 魔女的夜宴
-- **[Mobile]** Riddle Joker
-- **[Mobile]** 星光咖啡馆与死神之蝶
-- **[Mobile]** Parquet `Yuzusoft Sour`
-- **[Mobile]** 天使纷扰
-- **[PC]** Limelight Lemonade Jam `6.5`
+- DRACU-RIOT!
+- 千恋万花
+- 魔女的夜宴
+- Riddle Joker
+- 星光咖啡馆与死神之蝶
+- Parquet `Yuzusoft Sour`
+- 天使纷扰
+- Limelight Lemonade Jam `6.5`
 
 ---
 
