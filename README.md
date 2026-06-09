@@ -87,13 +87,6 @@
 - 星光咖啡馆与死神之蝶
 - Parquet `Yuzusoft Sour`
 - 天使纷扰
-- Limelight Lemonade Jam `6.5`
+- Limelight Lemonade Jam `5.5`
 
 ---
-
-## 计划游玩
-- Ambitious Mission
-- 樱舞落花恋模样 (桜ひとひら恋もよう)
-- 消失的世界与月与少女
-- 青春X好奇相伴的三角恋爱
-- 哥哥，早上起来之前都请抱紧我哦
