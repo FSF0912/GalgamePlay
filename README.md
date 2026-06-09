@@ -24,14 +24,14 @@
 
 ### [F] FAVORITE
 - **[RE]** 五彩斑斓的世界 `9.0`
-- **[RE]** 五彩斑斓的曙光 `9.0`
+- **[RE]** 五彩斑斓的曙光 `8.5`
 - **[RE]** 映入红瞳的世界 `9.5`
 
 ### [K] Key
 - Summer Pockets-Reflection Blue
 
 ### [M] Madosoft
-- 醋意乱流 `5.0`
+- 醋意乱流 `4.5`
 - 树莓立方体
 - 常轨脱离Creative
 - 常规脱离Creative凸
@@ -52,14 +52,17 @@
 
 ### [Q] Qruppo
 - NUKITASHI
-- NUKITASHI2 `丝丝FD | 8.0`
+- NUKITASHI2 `丝丝FD | 9.0`
+
+### [S] SAGA PLANETS
+- 金辉恋曲四重奏 `8.0`
 
 ### [S] しらたまこ (Shiratamako)
 - 星空列车与白的旅行
 
 ### [S] Sprite
 - 苍之彼方的四重奏 `8.0`
-- 苍之彼方的四重奏 EXTRA1 `8.0`
+- 苍之彼方的四重奏 EXTRA1 `7.0`
 - 苍之彼方的四重奏 EXTRA2 `9.0`
 
 [三部简评](Sprite/Aokana/Aokana.md)
