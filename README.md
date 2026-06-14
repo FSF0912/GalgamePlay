@@ -8,7 +8,7 @@
 ## 已玩列表
 
 ### [A] Alcot
-- **[RE]** Clover Day's (幸运草的约定)
+- **[RE]** Clover Day's
 
 ### [A] ANIPLEX.EXE
 - ATRI -My Dear Moments-
@@ -18,13 +18,13 @@
 - 恋爱，我就借走了
 
 ### [A] August
-- 大图书馆的牧羊人 `7.0`
+- 大图书馆的牧羊人 `7.5`
 - 大图书馆的牧羊人 课余的尾巴时光 `6.0`
-- 大图书馆的牧羊人 -Dreaming Sheep- `7.0`
+- 大图书馆的牧羊人 -Dreaming Sheep- `7.5`
 
 ### [F] FAVORITE
 - **[RE]** 五彩斑斓的世界 `9.0`
-- **[RE]** 五彩斑斓的曙光 `8.5`
+- **[RE]** 五彩斑斓的曙光 `9.0`
 - **[RE]** 映入红瞳的世界 `9.5`
 
 ### [K] Key
@@ -56,6 +56,7 @@
 
 ### [S] SAGA PLANETS
 - 金辉恋曲四重奏 `8.0`
+- 金辉恋曲四重奏-Golden Time- `8.5`
 
 ### [S] しらたまこ (Shiratamako)
 - 星空列车与白的旅行
