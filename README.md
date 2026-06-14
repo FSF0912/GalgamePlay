@@ -55,8 +55,8 @@
 - NUKITASHI2 `丝丝FD | 9.0`
 
 ### [S] SAGA PLANETS
-- 金辉恋曲四重奏 `8.0`
-- 金辉恋曲四重奏-Golden Time- `8.5`
+- **[Steam]** 金辉恋曲四重奏 `8.0`
+- **[Steam]** 金辉恋曲四重奏-Golden Time- `8.5`
 
 ### [S] しらたまこ (Shiratamako)
 - 星空列车与白的旅行
