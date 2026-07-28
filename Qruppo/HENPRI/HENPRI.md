@@ -158,6 +158,7 @@ Qruppo 的系统早在前作中就表现出色，这一作更是究极进化。
 
 3. 对立绘的极致运用
 <br>
+
 ~~可能是为了掩盖 CG 不足的现实~~ 后日谈姬瑠线立绘玩得是真花，特别是妙花立牌到处都是，千咲都和诺亚两人抬背景板真的太有节目效果了。
 
 ![z_stage_example](CGs/z_stage_example.png)
@@ -172,7 +173,7 @@ Qruppo 的系统早在前作中就表现出色，这一作更是究极进化。
 
 <br><br><br>
 
-<h1 align="center">个人评分：9.8 / 10，0</h1>
+<h1 align="center">个人评分：9.8 / 10.0</h1>
 
 <br><br><br><br>
 ![bange](https://notbyai.fyi/img/written-by-human-not-by-ai-white.svg)
