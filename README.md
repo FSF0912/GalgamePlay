@@ -1,6 +1,6 @@
 # Galgame 游玩记录
 
-**[时间排序](https://github.com/FSF0912/GalgamePlay/blob/main/TimeSorting.md)** | **[评测](https://github.com/FSF0912/GalgamePlay/wiki)**
+**[时间排序](https://github.com/FSF0912/GalgamePlay/blob/main/TimeSorting.md)** | **[评测（old）](https://github.com/FSF0912/GalgamePlay/wiki)**
 > 列表按照开发商首字母 (英文 / 中文拼音 / 日文罗马音) 排序。
 > 
 > 粗评标准：0-10分，以整数及小数.5计（x.0,x.5），以《千恋万花》为基准分6.0分。
@@ -53,7 +53,7 @@
 ### [Q] Qruppo
 - NUKITASHI
 - NUKITASHI2 `丝丝FD | 9.0`
-- HENPRI `9.8`
+- HENPRI `9.8`[简评](Qruppo/HENPRI/HENPRI.md)
 
 ### [S] SAGA PLANETS
 - **[Steam]** 金辉恋曲四重奏 `8.0`
