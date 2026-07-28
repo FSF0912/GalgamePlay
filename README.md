@@ -74,7 +74,7 @@
 
 ### [T] トトメトリ (Totometri)
 - 宝石少女1st cut
-- 宝石少女2nd cut`9.4`
+- 宝石少女2nd cut`9.2`
 
 ### [U] UGUISU KAGURA
 - 纸上的魔法使
