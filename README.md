@@ -56,11 +56,12 @@
 ### [Q] Qruppo
 - NUKITASHI
 - NUKITASHI2 `丝丝FD | 9.0`
-- HENPRI `9.8`[简评](Qruppo/HENPRI/HENPRI.md)
+- HENPRI `9.3`[简评](Qruppo/HENPRI/HENPRI.md)
 
 ### [S] SAGA PLANETS
 - **[Steam]** 金辉恋曲四重奏 `8.0`
-- **[Steam]** 金辉恋曲四重奏-Golden Time- `8.5`
+- **[Steam]** 金辉恋曲四重奏-Golden Time- `8.2`
+- **[Steam]** 初雪樱 `8.7`
 
 ### [S] しらたまこ (Shiratamako)
 - 星空列车与白的旅行
@@ -77,7 +78,7 @@
 
 ### [T] トトメトリ (Totometri)
 - 宝石少女1st cut
-- 宝石少女2nd cut`9.2`
+- 宝石少女2nd cut`9.0`
 
 ### [U] UGUISU KAGURA
 - 纸上的魔法使
