@@ -136,8 +136,6 @@ EX2开了图像高清化以后会变得异常地卡，而且开不开图像高�
 >这部作品在当时带给我一种耳目一新的感觉，感觉体育竞技类这一类能充分体现青春味道的gal要是做好了绝对会很惊艳。
 >可惜Parallelogram这作还是差了点，直到今年玩了苍彼后，我才充分体会到这类gal的魅力。
 
-<br><br><br><br>
-![bange](https://notbyai.fyi/img/written-by-human-not-by-ai-white.svg)
-<br>
-[Not By AI official website](https://notbyai.fyi/)
+---
+4QFlower 2026.5.3
 
