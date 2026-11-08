@@ -171,11 +171,5 @@ Qruppo 的系统早在前作中就表现出色，这一作更是究极进化。
 <br>
 虽然还有很多想说的，但作品的震撼需要亲身体会才能感受到。
 
-<br><br><br>
-
-<h1 align="center">个人评分：9.8 / 10.0</h1>
-
-<br><br><br><br>
-![bange](https://notbyai.fyi/img/written-by-human-not-by-ai-white.svg)
-<br>
-[Not By AI official website](https://notbyai.fyi/)
+---
+4QFlower 2026.7.28
