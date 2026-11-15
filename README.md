@@ -61,7 +61,7 @@
 ### [S] SAGA PLANETS
 - **[Steam]** 金辉恋曲四重奏 `8.0`
 - **[Steam]** 金辉恋曲四重奏-Golden Time- `8.2`
-- **[Steam]** 初雪樱 `8.7`
+- **[Steam]** 初雪樱 `8.7` [杂谈](https://www.bilibili.com/opus/1270567255959142407)
 
 ### [S] しらたまこ (Shiratamako)
 - 星空列车与白的旅行
@@ -71,7 +71,7 @@
 - 苍之彼方的四重奏 EXTRA1 `7.0`
 - 苍之彼方的四重奏 EXTRA2 `9.0`
 
-[三部简评](Sprite/Aokana/Aokana.md)
+[三部简评](https://www.bilibili.com/opus/1198186882262892552)
 
 ### [S] SWEET&TEA
 - 不败世界与终焉之花
