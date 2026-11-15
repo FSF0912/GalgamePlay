@@ -56,7 +56,7 @@
 ### [Q] Qruppo
 - NUKITASHI
 - NUKITASHI2 `丝丝FD | 9.0`
-- HENPRI `9.3`[简评](Qruppo/HENPRI/HENPRI.md)
+- HENPRI `9.3`[简评](https://www.bilibili.com/opus/1230091076153376789)
 
 ### [S] SAGA PLANETS
 - **[Steam]** 金辉恋曲四重奏 `8.0`
